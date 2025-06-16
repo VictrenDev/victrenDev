@@ -31,7 +31,14 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+### 💻 Languages & Frameworks
+
+![HTML5 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5  
+![CSS3 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3  
+![SASS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) SASS  
+![JavaScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript  
+![TypeScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TypeScript  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat&logo=sass&logoColor=white)
