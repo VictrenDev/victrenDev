@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/victor-odoi">
     <img src="https://img.shields.io/badge/LinkedIn-Victor%20Odoi-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:simply.victor3@gmail.com">
+  <a href="mailto:victorodoi741@gmail.com">
     <img src="https://img.shields.io/badge/Email-simply.victor3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -20,12 +20,19 @@
 
 ## 🚀 About Me
 
-- 🎓 Final year Electrical & Electronic Engineering student @ Uniport
-- 🧠 Building: CGPA Calculator SaaS, Ticketing System, Inventory Platforms
-- 💻 Started web development in **2020**, focused on full-stack JavaScript & TypeScript
-- 🛠️ Also fix laptops & offer hardware diagnostics
-- ⚡ Passionate about: learning, football, and photography
+Hi, I'm a passionate and experienced Web Developer with a strong command of modern web technologies and frameworks. I specialize in building responsive, high-performance websites and applications that deliver real value to users and businesses alike.
 
+    💻 Fluent in both frontend and backend development
+
+    🔧 Skilled in HTML, CSS, JavaScript, React, Node.js, and more
+
+    🚀 Continuously learning and exploring new tools, best practices, and technologies
+
+    🤝 Effective team collaborator, with experience working in diverse, cross-functional teams
+
+    🌍 Open to remote opportunities worldwide — ready to bring ideas to life for clients everywhere
+
+I take pride in writing clean, maintainable code and adapting quickly to new challenges. Whether you're building from scratch or need help improving an existing project, I'm excited to contribute and grow alongside your vision.
 ---
 
 ## 🛠️ Tech Stack
