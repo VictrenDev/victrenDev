@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Victor%20Odoi-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:victorodoi741@gmail.com">
-    <img src="https://img.shields.io/badge/Email-simply.victor3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-victorodoi741@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
