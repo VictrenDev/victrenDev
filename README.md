@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Victor Odoi — Victren</h1>
+<h1 align="center">👨‍💻 Victren</h1>
 
 <p align="center">
   Passionate <strong>Web Developer</strong> & <strong>Electronic Engineer</strong> | Lifelong Learner | Based in Port Harcourt, Nigeria 🇳🇬
