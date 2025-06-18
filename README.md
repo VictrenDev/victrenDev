@@ -84,7 +84,10 @@ I take pride in writing clean, maintainable code and adapting quickly to new cha
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicerr&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vicerr&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vicerr&theme=github-dark&hide_border=true" width="70%" />
+</p>
+
 
 ---
 
