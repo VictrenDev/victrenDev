@@ -33,6 +33,7 @@ Hi, I'm a passionate and experienced Web Developer with a strong command of mode
   🌍 Open to remote opportunities worldwide — ready to bring ideas to life for clients everywhere
 
 I take pride in writing clean, maintainable code and adapting quickly to new challenges. Whether you're building from scratch or need help improving an existing project, I'm excited to contribute and grow alongside your vision.
+
 ---
 
 ## 🛠️ Tech Stack
