@@ -31,17 +31,11 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-### 💻 Languages & Frameworks
-
-![HTML5 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5  
-![CSS3 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3  
-![SASS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) SASS  
-![JavaScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript  
-![TypeScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TypeScript  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -64,10 +58,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-00979D?style=flat&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 🧠 What I Bring to a Team
 
@@ -96,16 +87,14 @@
 | Project | Description |
 |--------|-------------|
 | 🎓 [CGPA Calculator](https://github.com/Vicerr/cgpa-calculator) | A SaaS platform for students to manage their academic records, predict GPA, and track progress |
-| 🎟️ Ticketing App (WIP) | Full-featured ticketing system with QR validation, admin dashboard, and analytics |
-| ⚙️ Inventory/Medical Systems | Practical admin dashboards for tracking records, orders, and stock using full-stack tools |
 
 ---
 
 ## 📬 Reach Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/victor-odoi)
-- 📧 simply.victor3@gmail.com
-- 🌐 [Portfolio (optional if ready)](https://your-portfolio-link.com)
+- 📧 victorodoi741@gmail.com
+
 
 ---
 
