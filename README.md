@@ -80,8 +80,8 @@ I take pride in writing clean, maintainable code and adapting quickly to new cha
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicerr&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicerr&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictrenDevr&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictrenDev&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 
@@ -93,7 +93,7 @@ I take pride in writing clean, maintainable code and adapting quickly to new cha
 
 | Project | Description |
 |--------|-------------|
-| 🎓 [CGPA Calculator](https://github.com/Vicerr/cgpa-calculator) | A SaaS platform for students to manage their academic records, predict GPA, and track progress |
+| 🎓 [CGPA Calculator](https://cgpa-calculator-kappa.vercel.app) | A SaaS platform for students to manage their academic records, predict GPA, and track progress |
 
 ---
 
